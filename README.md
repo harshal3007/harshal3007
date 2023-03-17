@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **MERN, JavaScript**
 
-- 👨‍💻 All of my projects are available at [My Portfilio](https://harshal3007.github.io/)
+- 👨‍💻 All of my projects are available at [my Portfilio](https://harshal3007.github.io/)
 
 - 💬 Ask me about **HTML, CSS, React**
 
 - 📫 How to reach me **harshalbhawsar9@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1SlhYwUd0J8lQ9y_G7LEdM_Ix-x-9zN9u/view?usp=share_link)
+- 📄 Know about my experiences [this is my Resume](https://drive.google.com/file/d/1SlhYwUd0J8lQ9y_G7LEdM_Ix-x-9zN9u/view?usp=share_link)
 
 - ⚡ Fun fact **I am a foodie, and a swimmer**
 
