@@ -1,4 +1,4 @@
-![o]([https://user-images.githubusercontent.com/115460223/225864916-0ed80655-9ac8-4efa-8b80-a08dc6676423.gif](https://media.giphy.com/media/QXwtfadqo7wbfmT46H/giphy.gif?cid=ecf05e4781np4fer8swxhmmn05j52lpz0yrs1vzu0b0tfdb0&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+![o](https://media.giphy.com/media/QXwtfadqo7wbfmT46H/giphy.gif?cid=ecf05e4781np4fer8swxhmmn05j52lpz0yrs1vzu0b0tfdb0&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 <h1 align="center">👋 Hi, I'm Harshal Bhawsar</h1>
 <h3 align="center">🚀 Front-End Developer | React | Next.js | TailwindCSS</h3>
