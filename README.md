@@ -1,4 +1,6 @@
-![o](https://media.giphy.com/media/QXwtfadqo7wbfmT46H/giphy.gif?cid=ecf05e4781np4fer8swxhmmn05j52lpz0yrs1vzu0b0tfdb0&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+<p align="center">
+  <img src="https://media.giphy.com/media/QXwtfadqo7wbfmT46H/giphy.gif?cid=ecf05e4781np4fer8swxhmmn05j52lpz0yrs1vzu0b0tfdb0&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="80%" />
+</p>
 
 <h1 align="center">👋 Hi, I'm Harshal Bhawsar</h1>
 <h3 align="center">🚀 Front-End Developer | React | Next.js | TailwindCSS</h3>
