@@ -6,7 +6,7 @@
 <p align="center">
 Welcome to my GitHub! I'm a <strong>passionate Front-End Developer</strong> dedicated to building 
 <strong>scalable, high-performance web applications</strong> with <strong>modern technologies</strong>. 
-I specialize in <strong>React.js, Next.js, TailwindCSS, and JavaScript (ES6+)</strong>, crafting intuitive 
+I specialize in <strong>React.js, Next.js,HTML5, CSS3, TailwindCSS, and JavaScript (ES6+)</strong>, crafting intuitive 
 and engaging user experiences.
 </p>
 
@@ -29,6 +29,8 @@ and engaging user experiences.
 
 <strong>Languages & Frameworks:</strong>  
 <p>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
@@ -45,6 +47,7 @@ and engaging user experiences.
   <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
 </p>
+
 
 ---
 
