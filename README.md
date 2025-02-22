@@ -1,32 +1,80 @@
 ![o](https://user-images.githubusercontent.com/115460223/225864916-0ed80655-9ac8-4efa-8b80-a08dc6676423.gif)
-<h1 align="center">Hi 👋, I'm Harshal Bhawsar</h1>
-<h3 align="center">Hello there, and welcome to my Github page! I am a passionate Front-end web developer who is committed to creating beautiful and engaging front-end experiences. As a fresher in the tech industry, I am eager to learn and grow in my skills every day. I specialize in front-end development, where I am skilled in a range of programming languages such as HTML, CSS,React,TailwindCSS and JavaScript. My goal is to leverage my knowledge and expertise to deliver stunning and functional websites and web applications that not only meet but exceed user expectations. In my free time, I enjoy working on personal projects that challenge me to think outside the box and push my limits as a developer. I am always looking for new opportunities to collaborate with other developers, learn from them, and contribute to exciting projects. So, feel free to explore my Github repositories and let's connect!</h3>
-<img align="right" alt="Coder Image Gif" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshal3007&label=Profile%20views&color=0e75b6&style=flat" alt="harshal3007" /> </p>
+<h1 align="center">👋 Hi, I'm Harshal Bhawsar</h1>
+<h3 align="center">🚀 Front-End Developer | React | Next.js | TailwindCSS</h3>
 
-- 🌱 I’m currently learning **MERN, JavaScript**
-
-- 👨‍💻 All of my projects are available at [my Portfilio](https://harshal3007.github.io/)
-
-- 💬 Ask me about **HTML, CSS, React, TailwindCSS**
-
-- 📫 How to reach me **harshalbhawsar9@gmail.com**
-
-- 📄 Know about my experiences [this is my Resume](https://drive.google.com/file/d/1SlhYwUd0J8lQ9y_G7LEdM_Ix-x-9zN9u/view?usp=share_link)
-
-- ⚡ Fun fact **I am a foodie, and a swimmer**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/harshal bhawsar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshal bhawsar" height="30" width="40" /></a>
+<p align="center">
+Welcome to my GitHub! I'm a <strong>passionate Front-End Developer</strong> dedicated to building 
+<strong>scalable, high-performance web applications</strong> with <strong>modern technologies</strong>. 
+I specialize in <strong>React.js, Next.js, TailwindCSS, and JavaScript (ES6+)</strong>, crafting intuitive 
+and engaging user experiences.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshal3007&show_icons=true&locale=en&layout=compact" alt="harshal3007" /></p>
+<h2>✨ About Me</h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshal3007&show_icons=true&locale=en" alt="harshal3007" /></p>
+<ul>
+  <li>🎯 <strong>Currently Learning:</strong> MERN Stack & JavaScript Best Practices</li>
+  <li>👨‍💻 <strong>Check Out My Work:</strong> <a href="https://harshal3007.github.io/" target="_blank">Portfolio</a></li>
+  <li>📄 <strong>Know More About My Experience:</strong> <a href="https://drive.google.com/file/d/1SlhYwUd0J8lQ9y_G7LEdM_Ix-x-9zN9u/view?usp=share_link" target="_blank">Resume</a></li>
+  <li>💬 <strong>Ask Me About:</strong> React, Next.js, JavaScript, TailwindCSS, API Integrations</li>
+  <li>📫 <strong>Reach Me At:</strong> harshalbhawsar9@gmail.com</li>
+  <li>⚡ <strong>Fun Fact:</strong> I'm a foodie 🍔 & a swimmer 🏊‍♂️</li>
+</ul>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshal3007&" alt="harshal3007" /></p>
+---
+
+<h2>🛠️ Technologies & Tools</h2>
+
+<strong>Languages & Frameworks:</strong>  
+<p>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+</p>
+
+<strong>Tools & Platforms:</strong>  
+<p>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+</p>
+
+---
+
+<h2>📊 GitHub Stats</h2>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshal3007&show_icons=true&theme=react&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=harshal3007&theme=react"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshal3007&layout=compact&theme=react"/>
+</div>
+
+---
+
+<h2>🤝 Let's Connect!</h2>
+
+<p>
+  <a href="https://linkedin.com/in/harshal-bhawsar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://github.com/harshal3007" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://harshal3007.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%231DA1F2.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<h2>💡 A Quote I Live By:</h2>
+<blockquote>
+  "First, solve the problem. Then, write the code." – John Johnson
+</blockquote>
